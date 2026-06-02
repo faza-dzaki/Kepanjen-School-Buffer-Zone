@@ -15,12 +15,7 @@ KSBZ project is about to indentify how closer a school from another one in Kepan
 
 
 ##### Result
-
-!\[Result](result/buffer\_result.png) 
-
-!\[Result](./result/buffer\_result.png)
-
-
+The result of this project are attache on the folder.
 
 ##### Context
 
