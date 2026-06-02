@@ -78,9 +78,7 @@ There are fourty points were identified including elementary school to universit
 
 ##### License \& Citation
 
-Faza Jauzau Dzaki. (2026). Kepanjen School Buffer Zone (KSBZ).
-
-Universitas Brawijaya, Fakultas Pertanian.
+Faza, J.D., (2026)., Kepanjen School Buffer Zone (KSBZ)., Universitas Brawijaya, Fakultas Pertanian.
 
 GitHub: https://github.com/faza-dzaki/Kepanjen-School-Buffer-Zone
 
